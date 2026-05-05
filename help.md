@@ -19,7 +19,7 @@ Place cursors anywhere on a playing video. Each cursor samples the color beneath
 
 ---
 
-## <i class="bi bi-gear-fill"></i> Setup
+## Setup
 
 ### MIDI Bus Configuration
 
