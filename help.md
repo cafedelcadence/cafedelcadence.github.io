@@ -1,6 +1,10 @@
-![MIDEO logo](og-image.jpg)
+<a href="https://www.youtube.com/watch?v=g8Z9xmVPES0" target="_blank">![MIDEO logo](og-image.jpg)</a>
 
 # MIDEO
+
+<a href="https://www.youtube.com/watch?v=g8Z9xmVPES0" target="_blank">Watch demo on youtube</a>
+
+
 
 **Video-driven MIDI automation for creative sound design.**
 
