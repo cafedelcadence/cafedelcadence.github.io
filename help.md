@@ -1,8 +1,8 @@
-<a href="https://www.youtube.com/watch?v=g8Z9xmVPES0" target="_blank">![MIDEO logo](og-image.jpg)</a>
+<a href="https://youtu.be/g8Z9xmVPES0?si=9RXoCKkcFD7SRj9D&t=352" target="_blank">![MIDEO logo](og-image.jpg)</a>
 
 # MIDEO
 
-<a href="https://www.youtube.com/watch?v=g8Z9xmVPES0" target="_blank">Watch demo on youtube</a>
+<a href="https://youtu.be/g8Z9xmVPES0?si=9RXoCKkcFD7SRj9D&t=352" target="_blank">Watch demo on youtube</a>
 
 
 
